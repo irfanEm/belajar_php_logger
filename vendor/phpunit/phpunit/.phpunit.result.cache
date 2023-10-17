@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"Irfanm\\Belajar\\PHP\\MVC\\RegexTest::testRegex":0.004,"Irfanm\\Belajar\\PHP\\MVC\\LoggerTest::testLogger":0.004}}
+{"version":1,"defects":[],"times":{"Irfanm\\Belajar\\PHP\\MVC\\RegexTest::testRegex":0.004,"Irfanm\\Belajar\\PHP\\MVC\\LoggerTest::testLogger":0.006,"Irfanm\\Belajar\\PHP\\MVC\\LoggerTest::testLoggerWithName":0.004,"Irfanm\\Belajar\\PHP\\MVC\\HandlerTest::testHandler":0.006}}

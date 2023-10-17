@@ -13,4 +13,11 @@ class LoggerTest extends TestCase
 
         self::assertNotNull($logger);
     }
+
+    public function testLoggerWithName()
+    {
+        $logger = new Logger(LoggerTest::class);
+
+        self::assertNotNull($logger);
+    }
 }
