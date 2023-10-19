@@ -1,0 +1,4 @@
+[2023-10-19T02:55:25.902517+00:00] Monolog\Handler\StreamHandler.ERROR: contoh error level [] []
+[2023-10-19T02:55:25.902831+00:00] Monolog\Handler\StreamHandler.CRITICAL: contoh critical level [] []
+[2023-10-19T02:55:25.902964+00:00] Monolog\Handler\StreamHandler.ALERT: contoh alert level [] []
+[2023-10-19T02:55:25.903134+00:00] Monolog\Handler\StreamHandler.EMERGENCY: contoh emergency level [] []

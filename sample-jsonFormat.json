@@ -1,0 +1,15 @@
+{
+  "message": "Hello World hehe",
+  "context": { "username": "IrfaneM" },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "Irfanm\\Belajar\\PHP\\MVC\\FormatterTest",
+  "datetime": "2023-10-19T04:33:55.024311+00:00",
+  "extra": {
+    "memory_usage": "6 MB",
+    "git": {
+      "branch": "master",
+      "commit": "8a3fe503f0a6ac4bb5ca47f1c233063c74ca8522"
+    }
+  }
+}
